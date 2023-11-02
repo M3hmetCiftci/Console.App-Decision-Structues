@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-decision structures\ConsoleApp-decision structures\bin\Debug\ConsoleApp-decision structures.exe.config
+C:\Users\asus\source\repos\ConsoleApp-decision structures\ConsoleApp-decision structures\bin\Debug\ConsoleApp-decision structures.exe
+C:\Users\asus\source\repos\ConsoleApp-decision structures\ConsoleApp-decision structures\bin\Debug\ConsoleApp-decision structures.pdb
+C:\Users\asus\source\repos\ConsoleApp-decision structures\ConsoleApp-decision structures\obj\Debug\ConsoleApp-decision structures.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-decision structures\ConsoleApp-decision structures\obj\Debug\ConsoleApp-decision structures.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-decision structures\ConsoleApp-decision structures\obj\Debug\ConsoleApp-decision structures.exe
+C:\Users\asus\source\repos\ConsoleApp-decision structures\ConsoleApp-decision structures\obj\Debug\ConsoleApp-decision structures.pdb
